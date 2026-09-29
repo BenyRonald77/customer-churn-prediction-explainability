@@ -1,0 +1,39 @@
+feature,mean_abs_shap
+Contract Month-to-month,0.6937737
+tenure,0.49342665
+MonthlyCharges,0.34060428
+InternetService Fiber optic,0.30635434
+TotalCharges,0.28470016
+Contract Two year,0.23321627
+PaymentMethod Electronic check,0.18641324
+PaperlessBilling No,0.117509685
+OnlineSecurity No,0.110321455
+TechSupport No,0.11021922
+MultipleLines No,0.10914287
+StreamingMovies No,0.08531031
+StreamingTV No,0.08356742
+InternetService No,0.072726
+Contract One year,0.06391583
+Dependents No,0.0564901
+SeniorCitizen,0.052516993
+PhoneService No,0.0499359
+gender Female,0.047121957
+InternetService DSL,0.043127216
+PaymentMethod Mailed check,0.04125217
+OnlineBackup No,0.03871773
+PaymentMethod Bank transfer (automatic),0.0364082
+StreamingMovies Yes,0.035353687
+OnlineSecurity Yes,0.03119435
+PaperlessBilling Yes,0.03029115
+PaymentMethod Credit card (automatic),0.029671216
+Partner No,0.028610522
+OnlineBackup Yes,0.023933195
+DeviceProtection No,0.017008008
+StreamingTV Yes,0.01662371
+MultipleLines Yes,0.014191009
+TechSupport Yes,0.011117463
+Dependents Yes,0.01067549
+PhoneService Yes,0.010101928
+gender Male,0.009811896
+DeviceProtection Yes,0.007965844
+Partner Yes,0.0057748593
