@@ -9,8 +9,11 @@ venv/
 data/processed/*.csv
 data/processed/*.parquet
 
-# Model artifacts (dibangun ulang dari skrip)
+# Model artifacts: hanya artefak final yang di-commit (untuk predict.py/app.py),
+# model eksperimen lain dibangun ulang dari src/train.py
 models/*.joblib
+!models/preprocessor.joblib
+!models/xgb_balanced.joblib
 
 # Notebook checkpoints
 .ipynb_checkpoints/
