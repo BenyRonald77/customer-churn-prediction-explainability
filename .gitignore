@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Data (raw tidak di-commit)
+data/raw/
+data/processed/
+
+# Model artifacts (dibangun ulang dari skrip)
+models/*.joblib
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
