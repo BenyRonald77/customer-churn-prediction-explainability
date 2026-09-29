@@ -5,9 +5,9 @@ __pycache__/
 .venv/
 venv/
 
-# Data (raw tidak di-commit)
-data/raw/
-data/processed/
+# Data processed yang besar (dibangun ulang dari skrip)
+data/processed/*.csv
+data/processed/*.parquet
 
 # Model artifacts (dibangun ulang dari skrip)
 models/*.joblib
